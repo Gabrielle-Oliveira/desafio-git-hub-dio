@@ -2,5 +2,11 @@
 
 1 - Abrir o terminal Git Bash;
 2 - Acessar a pasta que esta os arquivos; (cd)
-3 -  
+3 - no Git bash = git status; (vai identificar o arquivo)
+4 - git add . ou git add -A (para adiconar todos os arquivos)
+5 - git commit -m "Comentário do Commit"
+6 - git push origin main  
+7 - git status conferir se está tudo OK.
+
+
 
