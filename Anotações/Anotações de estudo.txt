@@ -1,0 +1,6 @@
+#Passo a passo para subir os arquivos para o Git Hub 
+
+1 - Abrir o terminal Git Bash;
+2 - Acessar a pasta que esta os arquivos; (cd)
+3 -  
+
